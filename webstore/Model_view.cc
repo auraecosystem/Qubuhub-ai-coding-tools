@@ -1,4 +1,3 @@
-
 #include "ui/views/view_model.h"
 
 #include <stddef.h>

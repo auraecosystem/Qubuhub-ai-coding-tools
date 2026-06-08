@@ -1,20 +1,27 @@
 # [ Awesome AI Coding Tools](neomind.ai)
 
-* [qwicklmlm](llama.cpp)
 
-* [neomind.ai](aura.build)
+* [lamis](lamis)
+
+* [node-ollama-cpp](node-ollama-cpp)
+
+* [ollams](ollams)
+
+* [qwicklmlm](qwicklmlm.pm)
+
+* [neomindai](neomindAI)
 
 * [workflowsAI](workflows.ai)
 
-* [auraAI](easy.ai)
+* [auraAI](auraAI)
 
-* [roda](roda.ai)
+* [roda](rda)
 
-* [ propilot](propilot.ai)
+* [pro-pilot](propilot.ai)
 
-* [zetaAI](zeta.ai)
+* [zetaAI](zeta.lai)
 
-![fast.ai](brain.ai)
+[brain.ai](fastcore1.fast.ai)
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
